@@ -18,3 +18,7 @@ Repositório dedicado ao estudo da linguagem Python, guiado pelas aulas da unive
 - 8: Strings
 - 9: Arquivos em Python
 	- Arquivo extra `arquivo.txt`
+
+📁 Pata 10-exercicios
+	📄 Arquivos: `10.1.py` e `10.2.py`
+	- 10: Exercícios para testar conhecimentos
