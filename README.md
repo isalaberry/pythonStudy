@@ -24,3 +24,8 @@ Repositório dedicado ao estudo da linguagem Python, guiado pelas aulas da unive
 - 📁 Pasta 10-exercicios
 	- 📄 Arquivos: `10.1.py` e `10.2.py`
 		- 10: Exercícios para testar conhecimentos
+
+- 📄 Arquivo: `11to12.py`
+	- 11: Programação Orientada a Objetos
+	- 12: Herança (e polimorfismo)
+
