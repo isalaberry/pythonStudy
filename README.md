@@ -36,3 +36,9 @@ Repositório dedicado ao estudo da linguagem Python, guiado pelas aulas da unive
 
 - 📄 Arquivo:  `14.py`
 	- 14: Operador Python
+
+- 📄 Arquivo:  `15.py`
+	- 15: Dados estruturados
+
+- 📄 Arquivo:  `16.py`
+	- 14: Explorando como conectar a web
