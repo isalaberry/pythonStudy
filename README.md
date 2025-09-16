@@ -29,8 +29,6 @@ Repositório dedicado ao estudo da linguagem Python, guiado pelas aulas da unive
 	- 11: Programação Orientada a Objetos
 	- 12: Herança (e polimorfismo)
 
-- 	- 10: Exercícios para testar conhecimentos
-
 - 📄 Arquivo:  `13.py`
 	- 13: Lidando com Erros
 
