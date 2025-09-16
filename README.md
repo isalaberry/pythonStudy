@@ -33,3 +33,6 @@ Repositório dedicado ao estudo da linguagem Python, guiado pelas aulas da unive
 
 - 📄 Arquivo:  `13.py`
 	- 13: Lidando com Erros
+
+- 📄 Arquivo:  `14.py`
+	- 14: Operador Python
