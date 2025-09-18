@@ -39,4 +39,10 @@ Repositório dedicado ao estudo da linguagem Python, guiado pelas aulas da unive
 	- 15: Dados estruturados
 
 - 📄 Arquivo:  `16.py`
-	- 14: Explorando como conectar a web
+	- 16: Explorando como conectar a web
+
+- 📄 Arquivo:  `17.py`
+	- 17: Como fazer web scrapping
+
+- 📄 Arquivo:  `18.py`
+	- 18: Análise de dados usando pandas
